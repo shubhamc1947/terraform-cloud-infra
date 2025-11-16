@@ -1,0 +1,3 @@
+scp -i "C:\Users\shubh.ssh\tarmac.pem" "C:\Users\shubh.ssh\tarmac.pem" ubuntu@13.126.70.110:/home/ubuntu/tarmac.pem
+
+terraform.tfvars put the variables name here and also rename the ip as well
